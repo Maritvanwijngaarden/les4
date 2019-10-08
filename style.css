@@ -1,0 +1,53 @@
+body{
+    background:lightgreen;
+}
+
+#introtekst{
+    background-color:forestgreen;
+    text-align:center;
+    color:white;
+    font: 20px ,Arial Verdana;
+    margin:50px;
+    padding:30px;
+}
+
+#startersinformatie{
+    background-color:aqua;
+    color:white;
+    font: 15px arial, sans-serif;
+        text-align:center;
+
+}
+
+#ingredienten{
+        background-color:deeppink;
+    color:white;
+    font: 15px arial, sans-serif;
+        text-align:center;
+
+
+}
+#keukenspullen{
+        background-color:deeppink;
+    color:white;
+    font: 15px arial, sans-serif;
+        text-align:center;
+
+
+}
+#bereidingswijzen{
+        background-color:deeppink;
+    color:white;
+    font: 15px arial, sans-serif;
+        text-align:center;
+
+
+}
+
+#footer{
+    background-color:black;
+        font: 15px arial, sans-serif;
+    text-align:center;
+
+    color:white;
+}
